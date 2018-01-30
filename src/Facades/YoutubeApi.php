@@ -4,7 +4,7 @@ namespace Alaouy\Youtube\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class Youtube extends Facade {
+class YoutubeApi extends Facade {
 
     /**
      * Get the registered name of the component.

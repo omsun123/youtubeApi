@@ -2,7 +2,7 @@
 
 namespace Alaouy\Youtube;
 
-class Youtube
+class YoutubeApi
 {
 
     /**

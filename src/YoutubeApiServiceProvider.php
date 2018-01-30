@@ -4,7 +4,7 @@ namespace Alaouy\Youtube;
 
 use Illuminate\Support\ServiceProvider;
 
-class YoutubeServiceProvider extends ServiceProvider
+class YoutubeApiServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application events.
